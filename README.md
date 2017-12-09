@@ -1,5 +1,6 @@
 # Spring Boot Recipe Application
+[![CircleCI](https://circleci.com/gh/harishh486/Spring5MySQLInDocker.svg?style=svg)](https://circleci.com/gh/harishh486/Spring5MySQLInDocker)
 
 
-This repository is for an example application built in my Spring Framework 5 
+I have Used Mysql in Docker to perform Crud opertions without using inmemory h2 db.
 
